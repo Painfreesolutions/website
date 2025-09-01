@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect rx="14" width="200" height="60" fill="#0b1220"/>
+  <g transform="translate(12,12)">
+    <circle cx="18" cy="18" r="18" fill="url(#lg)"/>
+    <path d="M8 18h20" stroke="#001018" stroke-width="4" stroke-linecap="round"/>
+    <path d="M12 26h12" stroke="#001018" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="70" y="38" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="20" fill="#e5e7eb">Clean &amp; Mean</text>
+</svg>
