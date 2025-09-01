@@ -9,7 +9,7 @@ A lightweight, fast, fully static website ready to deploy on Netlify. Inspired b
 4. Forms: Netlify Forms is wired up on `#contact`. Submissions appear in your Netlify dashboard.
 
 ## Customize
-- Replace images in `/assets/images/` with your own photos (keep names or update the HTML src).
+- Replace images in `assets/images/` with your own photos (keep names or update the HTML src).
 - Update phone, email, and service area in `index.html` footer and contact sections.
 - Edit colors in `assets/styles.css` under `:root` variables.
 
